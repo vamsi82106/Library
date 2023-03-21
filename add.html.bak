@@ -1,0 +1,43 @@
+<html lang="en">
+ <head>
+  <title>Document</title>
+  <link rel="stylesheet" href="Library Assignment.css"></link>
+ </head>
+ <body>
+ <div id="d10">
+ <form>
+ 	<center><h1 id="d11">Add Book Details</h1></center>
+	<center>
+	<table>
+	<tr>
+	<td><label class="c1">Enter Title</label></td>
+	<td><input placeholder="Enter book title" class="c2"></input></td>
+	</tr>
+	<tr>
+	<td><label class="c1">Enter Author</label></td>
+	<td><input placeholder="Enter book author" class="c2"></input></td>
+	</tr>
+	<tr>
+	<td><label class="c1">Edition</label></td>
+	<td><input placeholder="Enter Book Edition" class="c2"></input></td>
+	</tr>
+	<tr>
+	<td><label class="c1">Book Price</label></td>
+	<td><input placeholder="Enter Book Price" class="c2"></input></td>
+	</tr>
+	<tr>
+	<td><label class="c1">Book Type</label></td>
+	<td><input class="c2">
+		<select>
+		</select>
+	</input></tr>
+	<tr>
+	<td></td>
+	<td><input type="submit" value="ADD DETAILS" id="d12"></input></td>
+	</tr>
+	</table>
+	</center>
+ </form>
+ </div>
+ </body>
+</html>

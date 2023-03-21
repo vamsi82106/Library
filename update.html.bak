@@ -1,0 +1,27 @@
+<html lang="en">
+ <head>
+  <title>Update a book</title>
+  <link rel="stylesheet" href="Library Assignment.css"></link>
+ </head>
+ <body >
+ <div id="d13">
+	<center>
+		<h1 id="d14">Update Book Details</h1>
+		<table>
+		<tr>
+		<td class="c3">Enter title</td>
+		<td><input class="c4" placeholder="Enter book title"></input></td>
+		</tr>
+		<tr>
+		<td class="c3">Edition</td>
+		<td><input class="c4" placeholder="Enter Book Edition"></input></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td><input type="submit" value="Update details"></input></td>
+		</tr>
+		</table>
+	</center>		
+	</div>
+ </body>
+</html>

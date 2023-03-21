@@ -1,0 +1,23 @@
+<html lang="en">
+ <head>
+  <title>Remove a book</title>
+  <link rel="stylesheet" href="Library Assignment.css"></link>
+ </head>
+ <body >
+ <div>
+ <form>
+	<h1 id="d16">Remove Book Details</h1>
+ 		<table>
+		<tr>
+		<td class="c5">Book Title</td>
+		<td><input class="c6" placeholder="Enter book title"></input></td>
+		</tr>
+		<tr>
+		<td></td>
+		<td><input id="d17" type="submit" value="Remove details"></input></td>
+		</tr>
+		</table>
+</form>
+ </div>
+ </body>
+</html>

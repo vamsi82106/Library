@@ -1,0 +1,18 @@
+<html lang="en">
+ <head>
+  <title>Search a book</title>
+  <link rel="stylesheet" href="Library Assignment.css"></link>
+ </head>
+ <body >
+ <div id="d5">
+ 	<center><h1 id="d6">Search Book Details</h1>
+	<fieldset id="d7">
+		<legend>Enter title for search</legend>
+		<input id="d8"></input>
+		<br></br>
+		<input type="button" value="SEARCH" id="d9"></input>
+	</fieldset>
+	</center>
+ </div>
+ </body>
+</html>
